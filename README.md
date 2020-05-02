@@ -49,21 +49,20 @@ Birdcages always give 2 of a crops seeds when fed a crop
 
 Catcoon Tail can be traded with the Pig King for a gold nugget
 
-### Characters
-WX actually takes considerable damage in the rain
+Boomerang & Fashion Goggles can be crafted at the science machine
 
-Maxwell's Shadow Fighters will no longer kite and attack more often
-
-### Misc
 The 3 chess pieces can be crafted at the sculptors wheel.
 
-Boomerang & Fashion Goggles can be crafted at the science machine
+### Characters
+WX-78 actually takes considerable damage in the rain
+
+Maxwell's Shadow Fighters will no longer kite and attack more often
 
 ### New Content
 
 Added the **Petal Salve**. It costs 4 petals and 1 cooked red cap while healing 15 HP with no tech requirements.
 Getting hit in the darkness is a OHK regardless of your hp or armor
 
-Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and move much fast than a normal boomerang.
+Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
 
 
