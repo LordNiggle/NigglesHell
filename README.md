@@ -1,4 +1,6 @@
-# Weapons & Armor
+# Balance Changes
+
+### Weapons & Armor
 Thulecite Club does 75 Damage
 
 Bat Bat does 68 Damage
@@ -16,7 +18,7 @@ Scalemail has 85% Absorption and 1350 durability
 
 Grass Suit has 70% Absorption
 
-# Mobs
+### Mobs
 Toadstool has 20000 Health
 
 Misery Toadsstool has 30000 Health
@@ -35,7 +37,7 @@ Spiders no longer panic or attack walls
 
 Tentacles dont aggro onto flying mobs without being attacked
 
-# Items & Structures
+### Items & Structures
 
 Deerclops Eyeball & Guardian's Horn are inedible
 
@@ -47,14 +49,16 @@ Birdcages always give 2 of a crops seeds when fed a crop
 
 Catcoon Tail can be traded with the Pig King for a gold nugget
 
-# Characters
+### Characters
 WX actually takes considerable damage in the rain
 
 Maxwell's Shadow Fighters will no longer kite and attack more often
 
-# Misc
+### Misc
 The 3 chess pieces can be crafted at the sculptors wheel.
 
 Boomerang & Fashion Goggles can be crafted at the science machine
 
 Getting hit in the darkness is a OHK regardless of your hp or armor
+
+
