@@ -11,7 +11,6 @@ Tail o' Nine Cats does 34 Damage
 
 Pick/Axe does 34 Damage
 
-
 Bee Queen's Crown has 0% Absorption but infinite durability
 
 Scalemail has 85% Absorption and 1350 durability
@@ -56,7 +55,7 @@ The 3 chess pieces can be crafted at the sculptors wheel.
 ### Characters
 WX-78 actually takes considerable damage in the rain
 
-Maxwell's Shadow Fighters will no longer kite and attack more often
+Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack period of 1
 
 ### New Content
 
@@ -64,5 +63,3 @@ Added the **Petal Salve**. It costs 4 petals and 1 cooked red cap while healing 
 Getting hit in the darkness is a OHK regardless of your hp or armor
 
 Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
-
-
