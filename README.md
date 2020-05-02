@@ -59,6 +59,7 @@ The 3 chess pieces can be crafted at the sculptors wheel.
 
 Boomerang & Fashion Goggles can be crafted at the science machine
 
+Added the **Petal Salve**. It costs 4 petals and 1 cooked red cap while healing 15 HP with no tech requirements.
 Getting hit in the darkness is a OHK regardless of your hp or armor
 
 
