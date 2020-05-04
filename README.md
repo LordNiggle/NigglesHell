@@ -50,6 +50,8 @@ Catcoon Tail can be traded with the Pig King for a gold nugget
 
 Boomerang & Fashion Goggles can be crafted at the science machine
 
+Desert Goggles can be crafted at the Alchemy Engine
+
 The 3 chess pieces can be crafted at the sculptors wheel.
 
 ### Characters
