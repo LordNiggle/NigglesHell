@@ -36,6 +36,8 @@ Spiders no longer panic or attack walls
 
 Tentacles dont aggro onto flying mobs without being attacked
 
+Getting hit in the darkness is a OHK regardless of your hp or armor
+
 ### Items & Structures
 
 Deerclops Eyeball & Guardian's Horn are inedible
@@ -62,6 +64,5 @@ Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack 
 ### New Content
 
 Added the **Petal Salve**. It costs 4 petals and 1 cooked red cap while healing 15 HP with no tech requirements.
-Getting hit in the darkness is a OHK regardless of your hp or armor
 
 Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
