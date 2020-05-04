@@ -20,7 +20,7 @@ Grass Suit has 70% Absorption
 ### Mobs
 Toadstool has 20000 Health
 
-Misery Toadsstool has 30000 Health
+Misery Toadstool has 30000 Health
 
 Fire & Ice Hounds deal 75 Damage
 
@@ -63,6 +63,6 @@ Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack 
 
 ### New Content
 
-Added the **Petal Salve**. It costs 4 petals and 1 cooked red cap while healing 15 HP with no tech requirements.
+Added the **Petal Salve**. It costs 4 petals and 1 rock while healing 15 HP with no tech requirements.
 
 Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
