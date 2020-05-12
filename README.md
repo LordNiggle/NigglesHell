@@ -36,6 +36,8 @@ Spiders no longer panic or attack walls
 
 Tentacles dont aggro onto flying mobs without being attacked
 
+The Malbatross values fighting over running away
+
 Getting hit in the darkness is a OHK regardless of your hp or armor
 
 ### Items & Structures
@@ -64,5 +66,9 @@ Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack 
 ### New Content
 
 Added the **Petal Salve**. It costs 4 petals and 1 rock while healing 15 HP with no tech requirements.
+
+Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 rock while healing 50 HP 
+
+Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
 Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
