@@ -63,7 +63,7 @@ WX-78 actually takes considerable damage in the rain
 
 Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack period of 1
 
-### New Content
+# New Content
 
 Added the **Petal Salve**. It costs 4 petals and 1 rock while healing 15 HP with no tech requirements.
 
