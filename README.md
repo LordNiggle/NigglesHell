@@ -9,7 +9,7 @@ Ham Bat does 50 Damage
 
 Tail o' Nine Cats does 34 Damage
 
-Pick/Axe does 34 Damage
+Pick/Axe does 34 Damage & has 600 durability
 
 Bee Queen's Crown has 0% Absorption but infinite durability
 
@@ -28,7 +28,7 @@ Spider Warriors have 200 HP but 40 Damage
 
 Koalefants have 2000 HP and 100 Damage. They also run from the Deerclops
 
-Merms (not merm guards) are reverted back to 250 Health
+Merms (not Merm Guards) are reverted back to 250 Health
 
 Wargs drop a Purple Gem
 
