@@ -65,6 +65,8 @@ Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack 
 
 # New Content
 
+### Items 
+
 Added the **Petal Salve**. It costs 4 petals and 1 rock while healing 15 HP with no tech requirements.
 
 Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 rock while healing 50 HP 
@@ -72,3 +74,11 @@ Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 
 Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
 Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
+
+Added **Nox Hide** which drops from Noxen.
+
+### Beasts 
+
+Hunting has been reformed. The chance to find **alternate beasts** (Ewecus, Varg, and new Beasts) starts at 33% and goes up to 66%.
+
+Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 **Nox Hide**
