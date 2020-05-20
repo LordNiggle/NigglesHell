@@ -65,7 +65,7 @@ Klaus's Sack's loot table no longer has: Malbatross Bill, Down Feather, Desert R
 ### Characters
 WX-78 actually takes considerable damage in the rain
 
-Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack period of 1
+[Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack period of 1](https://media.discordapp.net/attachments/554355059060899886/712474670703837265/IMG_20200519_111712.png)
 
 # New Content
 
