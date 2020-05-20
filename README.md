@@ -11,6 +11,8 @@ Tail o' Nine Cats does 34 Damage
 
 Pick/Axe does 34 Damage & has 600 durability
 
+Log Suit has 450 durability
+
 Bee Queen's Crown has 0% Absorption but infinite durability
 
 Scalemail has 85% Absorption and 1350 durability
@@ -42,7 +44,7 @@ Getting hit in the darkness is a OHK regardless of your hp or armor
 
 ### Items & Structures
 
-Deerclops Eyeball & Guardian's Horn are inedible
+Guardian's Horn is inedible
 
 Salt Stacks drop 3 more Salt
 
@@ -57,6 +59,8 @@ Boomerang & Fashion Goggles can be crafted at the science machine
 Desert Goggles can be crafted at the Alchemy Engine
 
 The 3 chess pieces can be crafted at the sculptors wheel.
+
+Klaus's Sack's loot table no longer has: Malbatross Bill, Down Feather, Desert Rock, Lazy Deserter BP, Funcap BPs. Mandrake & Thick Fur swapped loot tables.
 
 ### Characters
 WX-78 actually takes considerable damage in the rain
