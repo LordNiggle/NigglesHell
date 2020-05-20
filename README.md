@@ -28,7 +28,7 @@ Fire & Ice Hounds deal 75 Damage
 
 Spider Warriors have 200 HP but 40 Damage
 
-Koalefants have 2000 HP and 100 Damage. They also run from the Deerclops
+Koalefants have 2000 HP and 100 Damage.
 
 Merms (not Merm Guards) are reverted back to 250 Health
 
@@ -58,7 +58,7 @@ Boomerang & Fashion Goggles can be crafted at the science machine
 
 Desert Goggles can be crafted at the Alchemy Engine
 
-The 3 chess pieces can be crafted at the sculptors wheel.
+The 3 Chess Pieces can be crafted at the sculptors wheel.
 
 Klaus's Sack's loot table no longer has: Malbatross Bill, Down Feather, Desert Rock, Lazy Deserter BP, Funcap BPs. Mandrake & Thick Fur swapped loot tables.
 
@@ -77,9 +77,11 @@ Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 
 
 Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
-Added the **Improvised Glaive**. Crafted at the Alchemy Engine in the Fight tab, it costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
+Added the **Improvised Glaive**. It costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
 
-Added **Nox Hide** which drops from Noxen.
+Added **Nox Hide**.
+
+Added the **Nox Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem while basically being an insulated pack that might actually be worth it.
 
 ### Beasts 
 
