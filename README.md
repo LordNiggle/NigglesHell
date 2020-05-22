@@ -69,7 +69,7 @@ Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack 
 
 Abigail no longer gives an attack bonus to wendy 
 
-Pipspooks no longer spawn /and Wendy crafts her tonics with nightmare fuel/
+Pipspooks no longer spawn
 
 # New Content
 
@@ -85,10 +85,18 @@ Added the **Improvised Glaive**. It costs a boomerang, 2 bone shards, and a rope
 
 Added **Nox Hide**.
 
-Added the **Nox Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem while basically being an insulated pack that might actually be worth it.
+Added a new version of the **Insulated Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem.
 
 ### Beasts 
 
 Hunting has been reformed. The chance to find **alternate beasts** (Ewecus, Varg, and new Beasts) starts at 33% and goes up to 66%.
 
 Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 **Nox Hide**
+
+# Plans for the Future
+
+New Beasts
+
+The ability to let Wendy craft her tonics with nightmare fuel instead.
+
+The Living Oar 
