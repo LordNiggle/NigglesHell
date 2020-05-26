@@ -19,6 +19,8 @@ Scalemail has 85% Absorption and 1350 durability
 
 Grass Suit has 70% Absorption
 
+Battle Helm has 65% Absorption but gives a 20% damage boost to non-Wigfrids.
+
 ### Mobs
 Toadstool has 20000 Health
 
