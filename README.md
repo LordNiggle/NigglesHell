@@ -89,7 +89,7 @@ Added **Nox Hide**.
 
 Added a new version of the **Insulated Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem.
 
-Added Sickly Glands which heal you for 20 Health.
+Added **Sickly Glands** which heal you for 20 Health.
 
 ### Mobs
 
