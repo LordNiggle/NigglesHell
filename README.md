@@ -89,11 +89,15 @@ Added **Nox Hide**.
 
 Added a new version of the **Insulated Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem.
 
-### Beasts 
+Added Sickly Glands which heal you for 20 Health.
+
+### Mobs
 
 Hunting has been reformed. The chance to find **alternate beasts** (Ewecus, Varg, and new Beasts) starts at 33% and goes up to 66%.
 
-Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 **Nox Hide**
+Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 Nox Hhide
+
+Added **Plague Spiders** which spawn from **Wretched Mounds** in the Mud Biome's background rooms. When they hit you they take away 10 Max-Health & Sanity but if you can beat them they will drop Sickly Glands.
 
 # Plans for the Future
 
