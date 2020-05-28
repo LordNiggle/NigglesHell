@@ -95,13 +95,13 @@ Added **Sickly Glands** which heal you for 20 Health.
 
 Hunting has been reformed. The chance to find **alternate beasts** (Ewecus, Varg, and new Beasts) starts at 33% and goes up to 66%.
 
-Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 Nox Hhide
+Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 Nox Hide (New Beast!)
 
 Added **Plague Spiders** which spawn from **Wretched Mounds** in the Mud Biome's background rooms. When they hit you they take away 10 Max-Health & Sanity but if you can beat them they will drop Sickly Glands.
 
 # Plans for the Future
 
-New Beasts
+More new beasts
 
 The ability to let Wendy craft her tonics with nightmare fuel instead.
 
