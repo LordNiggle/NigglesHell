@@ -83,7 +83,7 @@ Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 
 
 Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
-Added **Bottle Bombs** which are made from Bottles and Gunpowder. they act like Coconades and deal 250 damage
+/Added **Bottle Bombs** which are made from Bottles and Gunpowder. they act like Coconades and deal 250 damage
 
 Added **Sickly Glands** which heal you for 20 Health.
 
