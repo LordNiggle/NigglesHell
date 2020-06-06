@@ -5,8 +5,6 @@ Thulecite Club does 75 Damage
 
 Bat Bat does 68 Damage
 
-Ham Bat does 50 Damage
-
 Tail o' Nine Cats does 34 Damage
 
 Pick/Axe does 34 Damage & has 600 durability
@@ -69,9 +67,11 @@ WX-78 actually takes considerable damage in the rain
 
 Maxwell's Shadow Fighters have 175 HP, tank instead of kite, and have an attack period of 1
 
-Abigail no longer gives an attack bonus to wendy 
+Wendy no longer gets an attack bonus from Abigail & Pipspooks no longer spawn so she makes her elixirs with nightmare fuel instead.
 
-Pipspooks no longer spawn
+Wilson can craft the Mad Scientist Lab
+
+Warly exclusively crafts the hambat
 
 # New Content
 
@@ -83,13 +83,11 @@ Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 
 
 Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
-Added the **Improvised Glaive**. It costs a boomerang, 2 bone shards, and a rope. It deals 75 damage a hit with 20 uses, and moves much faster than a normal boomerang.
-
-Added **Nox Hide**.
-
-Added a new version of the **Insulated Pack**. It costs 3 Nox Hide, 2 Rope & 1 Blue Gem.
+Added **Bottle Bombs** which are made from Bottles and Gunpowder. they act like Coconades and deal 250 damage
 
 Added **Sickly Glands** which heal you for 20 Health.
+
+Added **Nox Hide**.
 
 ### Mobs
 
