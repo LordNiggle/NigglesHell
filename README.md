@@ -42,6 +42,8 @@ The Malbatross values fighting over running away
 
 Getting hit in the darkness is a OHK regardless of your hp or armor
 
+Antlion has been completely revamped. It will eat Orange Gems in exchange for Chitin and drops 2-3 of it on death. It also has a likewise increase in difficulty.
+
 ### Items & Structures
 
 Guardian's Horn is inedible
@@ -83,8 +85,6 @@ Added the **Mushroom Salve**. It costs 6 cooked red caps, 2 bones shards, and 1 
 
 Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP 
 
-/Added **Bottle Bombs** which are made from Bottles and Gunpowder. they act like Coconades and deal 250 damage
-
 Added **Sickly Glands** which heal you for 20 Health.
 
 Added **Nox Hide**.
@@ -93,9 +93,11 @@ Added **Nox Hide**.
 
 Hunting has been reformed. The chance to find **alternate beasts** (Ewecus, Varg, and new Beasts) starts at 33% and goes up to 66%.
 
-Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 Nox Hide (New Beast!)
+Added the **Nox**. 1500 HP & 75 Damage, drops 6 meat and 3.5 **Nox Hide** (New Beast!)
 
-Added **Plague Spiders** which spawn from **Wretched Mounds** in the Mud Biome's background rooms. When they hit you they take away 10 Max-Health & Sanity but if you can beat them they will drop Sickly Glands.
+Added **Plague Spiders** which spawn from **Wretched Mounds** in the Mud Biome's background rooms. When they hit you they take away 10 Max-Health & Sanity but if you can beat them they will drop **Sickly Glands** which heal you for 20 HP.
+
+
 
 # Plans for the Future
 
