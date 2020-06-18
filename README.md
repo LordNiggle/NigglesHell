@@ -87,7 +87,9 @@ Added the **Kelp Bandage**. It costs 1 dried kelp and 2 silk while healing 25 HP
 
 Added **Sickly Glands** which heal you for 20 Health.
 
-Added **Nox Hide**.
+Added the **Chitin Carapace**, It takes 5 Chitin and 1 Log suit with a whopping 85% protection & 1500 durability.
+
+Added the **Pirate Hat**. Costs 2 bone shards 1 pigskin and 4 silk. Gives Medium-High dapperness with 70% wetness resistance.
 
 ### Mobs
 
