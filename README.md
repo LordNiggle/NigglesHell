@@ -1,6 +1,6 @@
 # Food Changes
 
-### Overtime Healing Foods
+### Overtime Healing Foods:
 
 Butter Muffin: 10 HP, 15 Sanity
 
@@ -32,13 +32,13 @@ Mandrake Soup: 80 HP, 5 Sanity
 
 Fresh Fruit Crepes: 80 HP, 50 Sanity
 
-#### Non-OH Sanity Foods
+#### Non-OH Sanity Foods:
 
 Trail Mix: 6 HP, 10 Sanity
 
 Spiralled Tubers: 6 HP, 15 Sanity
 
-### Normal Foods
+### Normal Foods:
 
 Fist-Full of Jam: 40 Days Perish Time
 
